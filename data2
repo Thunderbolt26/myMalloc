@@ -1,0 +1,8 @@
+start: 0x4040000
+size: 12
+is_free: 0
+
+start: 0x4040020
+size: 48
+is_free: 1
+
